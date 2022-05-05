@@ -143,7 +143,7 @@ body * {
 
 .description {
     margin: 19px 0px 42px;
-    width: 400;
+    width: 400px;
     font-size: 22px;
     line-height: 36px;
     color: #FFFFFF;
@@ -555,7 +555,7 @@ body * {
 }
 
 .service-agree {
-    margin-left: 7px;
+    margin: 18px 7px;
     font-size: 14px;
     line-height: 163.68%;
     color: #FFFFFF;
@@ -839,17 +839,12 @@ body * {
     }
 
     .description {
+        width: 330px;
         font-size: 14px;
         line-height: 135.84%;
     }
 
     .footer {
         display: none;
-    }
-}
-
-@media screen and (max-width: 390px){
-    .hero {
-        padding: 30px auto;
     }
 }
